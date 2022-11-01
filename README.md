@@ -4,7 +4,7 @@
 
 Desafio desenvolvido no curso Explorer da rocketseat
 
-* Criando um formulário com os conhecimentos adquiridos no Projero 03
+* Criando um formulário com os conhecimentos adquiridos no Projeto 03
 
 ![preview](./.github/preview.png)
 
